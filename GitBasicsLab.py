@@ -17,3 +17,6 @@ def feature_a():
 
 def helper_function_1():
     return "I'm helping!"
+
+def feature_a():
+    return "This is the improved feature A"
